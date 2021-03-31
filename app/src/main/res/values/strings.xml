@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">InstagramClone_</string>
+    <string name="settings">settings</string>
+    <string name="log_out">log_out</string>
+</resources>
